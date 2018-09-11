@@ -1,0 +1,17 @@
+{
+  "name": "ssb-incoming-guard",
+  "description": "scuttlebot plugin for disallowing incoming connections from nodes outside hops",
+  "version": "0.1.0",
+  "homepage": "https://github.com/ssbc/ssb-incoming-guard",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ssbc/ssb-incoming-guard.git"
+  },
+  "dependencies": {
+    "pull-stream": "^3.6.8"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Secure Scuttlebutt Consortium",
+  "license": "Beerware"
+}
